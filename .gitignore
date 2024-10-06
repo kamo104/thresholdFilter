@@ -3,3 +3,4 @@ cases
 out
 .direnv
 **/.cache
+**/node_modules
